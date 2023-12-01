@@ -1,0 +1,15 @@
+C:\Users\rosma\source\repos\EjemploFactoryMethod\bin\Debug\net6.0\EjemploFactoryMethod.exe
+C:\Users\rosma\source\repos\EjemploFactoryMethod\bin\Debug\net6.0\EjemploFactoryMethod.deps.json
+C:\Users\rosma\source\repos\EjemploFactoryMethod\bin\Debug\net6.0\EjemploFactoryMethod.runtimeconfig.json
+C:\Users\rosma\source\repos\EjemploFactoryMethod\bin\Debug\net6.0\EjemploFactoryMethod.dll
+C:\Users\rosma\source\repos\EjemploFactoryMethod\bin\Debug\net6.0\EjemploFactoryMethod.pdb
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\EjemploFactoryMethod.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\EjemploFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\EjemploFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\EjemploFactoryMethod.AssemblyInfo.cs
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\EjemploFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\EjemploFactoryMethod.dll
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\refint\EjemploFactoryMethod.dll
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\EjemploFactoryMethod.pdb
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\EjemploFactoryMethod.genruntimeconfig.cache
+C:\Users\rosma\source\repos\EjemploFactoryMethod\obj\Debug\net6.0\ref\EjemploFactoryMethod.dll
