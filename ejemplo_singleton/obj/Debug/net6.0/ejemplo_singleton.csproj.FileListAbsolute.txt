@@ -1,0 +1,15 @@
+C:\Users\rosma\source\repos\ejemplo_singleton\bin\Debug\net6.0\ejemplo_singleton.exe
+C:\Users\rosma\source\repos\ejemplo_singleton\bin\Debug\net6.0\ejemplo_singleton.deps.json
+C:\Users\rosma\source\repos\ejemplo_singleton\bin\Debug\net6.0\ejemplo_singleton.runtimeconfig.json
+C:\Users\rosma\source\repos\ejemplo_singleton\bin\Debug\net6.0\ejemplo_singleton.dll
+C:\Users\rosma\source\repos\ejemplo_singleton\bin\Debug\net6.0\ejemplo_singleton.pdb
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ejemplo_singleton.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ejemplo_singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ejemplo_singleton.AssemblyInfoInputs.cache
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ejemplo_singleton.AssemblyInfo.cs
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ejemplo_singleton.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ejemplo_singleton.dll
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\refint\ejemplo_singleton.dll
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ejemplo_singleton.pdb
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ejemplo_singleton.genruntimeconfig.cache
+C:\Users\rosma\source\repos\ejemplo_singleton\obj\Debug\net6.0\ref\ejemplo_singleton.dll
